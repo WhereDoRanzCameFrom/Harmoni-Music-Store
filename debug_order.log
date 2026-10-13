@@ -1,0 +1,140 @@
+=== NEW ORDER ATTEMPT ===
+Time: 2025-11-07 18:38:33
+Input Data: Array
+(
+    [customer] => Array
+        (
+            [customer_name] => Tuking
+            [customer_email] => ua@gmail.com
+            [customer_phone] => 081254834537
+            [customer_address] => Tarakan
+            [notes] => iya
+        )
+
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [name] => Gitar Akustik Cort AD810
+                    [price] => 1800000
+                    [image] => images/1761330574_ad810.jpeg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 1800000
+)
+
+Order created with ID: 18
+Inserted 1 order items
+Status log created
+Transaction committed successfully
+=== END ORDER ATTEMPT ===
+
+=== NEW ORDER ATTEMPT ===
+Time: 2025-11-07 18:42:24
+Input Data: Array
+(
+    [customer] => Array
+        (
+            [customer_name] => Tuking
+            [customer_email] => halal@gmail.com
+            [customer_phone] => 988
+            [customer_address] => Tarakan
+            [notes] => Makasih
+        )
+
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 9
+                    [name] => Bass Akustik Grazia
+                    [price] => 1050000
+                    [image] => images/1761331477_Grazia.jpg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 1050000
+)
+
+Order created with ID: 19
+Inserted 1 order items
+Status log created
+Transaction committed successfully
+=== END ORDER ATTEMPT ===
+
+=== NEW ORDER ATTEMPT ===
+Time: 2025-11-07 18:49:24
+Input Data: Array
+(
+    [customer] => Array
+        (
+            [customer_name] => Tuking
+            [customer_email] => ua@gmail.com
+            [customer_phone] => 666
+            [customer_address] => Tarakan
+            [notes] => iya
+        )
+
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 2
+                    [name] => Gitar Akustik Cort AD810
+                    [price] => 1800000
+                    [image] => images/1761330574_ad810.jpeg
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 1800000
+)
+
+Order created with ID: 20
+Inserted 1 order items
+Status log created
+Transaction committed successfully
+=== END ORDER ATTEMPT ===
+
+=== NEW ORDER ATTEMPT ===
+Time: 2025-11-09 06:33:26
+Input Data: Array
+(
+    [customer] => Array
+        (
+            [customer_name] => Rangga
+            [customer_email] => rangga@gmail.com
+            [customer_phone] => 12345
+            [customer_address] => Tarakan
+            [notes] => iya
+        )
+
+    [items] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 17
+                    [name] => Cajon Ke'
+                    [price] => 1950000
+                    [image] => images/1762598964_Cajon Ke'.png
+                    [quantity] => 1
+                )
+
+        )
+
+    [total] => 1950000
+)
+
+Order created with ID: 21
+Inserted 1 order items
+Status log created
+Transaction committed successfully
+=== END ORDER ATTEMPT ===
+
