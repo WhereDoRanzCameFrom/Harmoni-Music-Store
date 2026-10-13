@@ -20,20 +20,6 @@ A specialized e-commerce web application designed for **Harmoni Music Store** to
 
 ---
 
-## 🔒 Security & Proprietary Notice
-
-> **Note on Code Concealment & Repository Privacy:**
-> 
-> To protect **Harmoni Music Store**'s commercial assets, production security, and customer privacy, certain components of this source code have been omitted or obscured in this public repository:
-> 
-> - **Database Credentials & API Keys:** Files containing database access vectors, payment gateway API keys (`/config/db.php`, `/config/payment.php`), and secret environment variables (`.env`) are excluded via `.gitignore`.
-> - **Proprietary Payment Gateway Logic:** Core payment processing webhooks and merchant authentication routines are replaced with mockup interfaces to prevent unauthorized cloning or fraud exploits.
-> - **Internal Administrative Routes:** Specific sensitive administrative endpoints and automated cron-job scripts for inventory reconciliation have been hidden to comply with security best practices.
-> 
-> *A full, un-redacted repository is available upon request for authorized security auditors or core maintenance developers.*
-
----
-
 ## 🛠️ Tech Stack
 
 - **Backend:** PHP (Native / Procedural architecture)
@@ -41,13 +27,3 @@ A specialized e-commerce web application designed for **Harmoni Music Store** to
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap 5
 - **Icons:** FontAwesome 6 / Bootstrap Icons
 - **Server Environment:** Apache (XAMPP / WampServer / Linux LAMP Stack)
-
----
-
-## ⚙️ Local Installation & Setup
-
-1. **Clone the Repository:**
-   Move the project into your local server root directory (`htdocs` or `www`):
-   ```bash
-   cd C:/xampp/htdocs/
-   git clone [https://github.com/your-username/harmoni-music-store.git](https://github.com/your-username/harmoni-music-store.git)
